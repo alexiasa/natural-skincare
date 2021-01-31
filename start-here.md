@@ -29,6 +29,7 @@ Here are my skincare essentials and how I use them.
 - organic almond oil for an all purpose carrier
 - organic ACV (apple cider vinegar)
 - organic aloe juice
+- organic castor oil for oil cleanse
 - rose water for nourishing base, general spritzing, body wash, etc.
 - various herbs for infusing into skincare oils
 
