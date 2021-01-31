@@ -11,4 +11,4 @@ I hope this information helps you wherever you are on your natural skincare jour
 
 &nbsp;
 
-❤️ If you appreciate this info, you can [buy me a coffee](https://www.buymeacoffee.com/alexiasa)! ☕️
+❤️ If you want, you can [buy me a coffee](https://www.buymeacoffee.com/alexiasa) ☕️ 
