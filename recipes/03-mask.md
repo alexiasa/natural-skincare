@@ -1,4 +1,4 @@
-# Clay mask
+# Clay & charcoal mask
 
 # Basic recipe
 - 3 parts bentonite clay
