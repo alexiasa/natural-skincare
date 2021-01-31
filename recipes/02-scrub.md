@@ -1,5 +1,5 @@
 # Scrub
-I almost generically referred to it a sugar scrub but really there's a variety of abrasive food items that can be used to give your face a thorough yet gentle exfoliation! I have used sugar, ground coffee beans, salt, and a few blends of those with varying degrees of success.
+I almost generically referred to it as a sugar scrub but really there's a variety of abrasive food items that can be used to give your face a thorough yet gentle exfoliation! I have used sugar, ground coffee beans, salt, and a few blends of those with varying degrees of success.
 
 ## Basic recipe
 - 1 part nourishing blend (optional: add extra vitamin E oil)
