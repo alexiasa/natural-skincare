@@ -1,9 +1,9 @@
 # Nourishing blend
 
 ## Basic recipe
-5 parts - almond and/or other carrier oils
-3 parts - coconut oil
-2 parts - nourishing oils (I tend to use more jojoba/etc. & less vitamin E, which can be quite viscous)
+- 5 parts - almond and/or other carrier oils
+- 3 parts - coconut oil
+- 2 parts - nourishing oils (I tend to use more jojoba/etc. & less vitamin E, which can be quite viscous)
 
 > For this one, the coconut oil can be tricky. Use too much and the mixture wants to solidify when cold! If your coconut oil is solid, melt it before blending.
 

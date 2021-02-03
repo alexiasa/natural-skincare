@@ -5,10 +5,10 @@ When I started out, my goal was to start a beauty regimen that I could eat. My g
 
 ---
 
-Check out "start here" for a quick start guide or dive right into the recipes.
-
-I hope this information helps you wherever you are on your natural skincare journey! 🌱✨
+Check out "[start here](https://github.com/alexiasa/natural-skincare/blob/main/start-here.md)" for a quick start guide or dive right into the [recipes](https://github.com/alexiasa/natural-skincare/tree/main/recipes).
 
 &nbsp;
 
-<a href="https://www.buymeacoffee.com/alexiasa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 100px !important;" ></a>
+I hope this information helps you wherever you are on your natural skincare journey! 🌱✨
+
+❤️ If you want, you can [buy me a coffee](https://www.buymeacoffee.com/alexiasa) ☕️ 

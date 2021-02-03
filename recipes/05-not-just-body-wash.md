@@ -5,9 +5,9 @@ Ok, this is "bonus content" since it's not strictly face-related, but I wanted t
 With a few tweaks to your liking, this can be a body wash, shampoo, or beard wash tailored to your needs.
 
 ## Basic recipe
-1 part water or rose water\*
-1 part liquid castile soap
-essential oils to your preference
+- 1 part water or rose water\*
+- 1 part liquid castile soap
+- essential oils to your preference
 
 The goal for this recipe is to have approximately half castile soap and half "other stuff". You can get creative with the other stuff.
 
