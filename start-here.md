@@ -40,8 +40,8 @@ purpose|ingredients/tools|timing|notes|
 ---|---|---|---|
 everyday cleansing|water, microfiber face cloth|as needed|try to do this no more than 2x/day to avoid unnecessarily stripping out oils and making your skin sad
 gentler cleansing| nourishing blend + castor oil|as needed|doesn't leave skin dry
-toning|50% diluted ACV|after cleansing and before moisturizing 1x/day
-moisturizing|nourishing blend + 2 drops aloe + spritz rose water (optional)|post-cleansing | moisturize that beautiful face EVERY time you cleanse it
+toner|50% diluted ACV|after cleansing and before moisturizing 1x/day
+moisturizing (*nourishing base*)|dime-sized amount nourishing blend + 2 drops aloe + spritz rose water (optional)|post-cleansing | moisturize that beautiful face EVERY time you cleanse it
 makeup removal|coconut oil, microfiber cloth, aloe|as needed|use coconut oil directly on skin to aid in removal of eyeliner, lipstick, etc. wipe off with microfiber cloth or cotton round wet with some aloe and few drops of *custom* nourishing blend to reduce friction and soothe tender skin
 lip recovery|vitamin E oil, aloe|as needed after lip makeup removal|smoothe a thin layer of aloe on clean lips, wait a few moments, then smoothe a thin layer of vitamin E oil onto lips
 exfoliation|sugar scrub|1-2x/week
