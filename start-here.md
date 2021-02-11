@@ -13,7 +13,7 @@ There are several types of ingredients that allow you to make many skincare prod
 ### A Quick Guide to Skincare Oils
 category|purpose|oils|traits
 ---|---|---|---|
-carrier|basic workhorse oils for most any application| olive, almond, coconut, hemp (see note)
+carrier|basic workhorse oils for most any application| olive, grapeseed, almond, coconut, hemp (see note)
 utility| primarily cleansing | castor, coconut
 nourishment|specific skincare benefits | vitamin e, jojoba, argan
 
@@ -24,7 +24,7 @@ Here are my skincare essentials and how I use them.
 - organic beeswax pastilles for salves, balms, and lotions
 - raw organic shea butter for salves, balms, and lotions
 - organic coconut oil for salves, balms, lotions, and carrier use
-- 10 or 15,000 IU vitamin E oil (usually it's in a sunflower oil base) for everything **Vitamin E has preservative properties so it's not a bad idea to add it to everything to lengthen shelf life a bit, plus great for skin!**
+- vitamin E oil (usually it's in a sunflower oil base, but you can find better stuff too) for everything **Vitamin E has preservative properties so it's not a bad idea to add it to everything to lengthen shelf life a bit, plus great for skin!**
 - organic jojoba oil for extra nourishment in everything
 - organic almond oil for an all purpose carrier
 - organic ACV (apple cider vinegar)
