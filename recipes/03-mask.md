@@ -1,6 +1,6 @@
 # Clay & charcoal mask
 
-# Basic recipe
+## Basic recipe
 - 3 parts bentonite clay
 - 1 part activated charcoal
 - enough apple cider vinegar to form a paste
@@ -12,4 +12,6 @@ Typically I need no more than 1-2 tablespoons of bentonite clay and charcoal mix
 
 Mix these in a non-metal container using non-metal utensils. Stir in optional ingredients and apple cider vinegar just enough to make a thick paste. If you miss that sweet spot and it gets too wet/dry, add a bit more clay/ACV and try again until you get it right!
 
-Slather it on your clean face and leave for about 10 minutes before wiping off. The charcoal may be kinda dirty but your face will get a nice deep clean!
+Slather it on your clean face and leave for about 10 minutes before wiping off. The charcoal may be kinda dirty but your face will get a nice deep clean!\*
+
+\* you can also do this with just bentonite clay or a different clay if you prefer

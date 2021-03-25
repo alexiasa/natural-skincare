@@ -1,4 +1,4 @@
-# Oil cleanse
+# Oil Cleanse
 
 Start with about 50/50 nourishing blend and castor oil. You will need no more than a few drops of each for one cleanse.
 
