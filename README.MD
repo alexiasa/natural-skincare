@@ -12,4 +12,5 @@ Check out "[start here](https://github.com/alexiasa/natural-skincare/blob/main/s
 I hope this information helps you wherever you are on your natural skincare journey! 🌱✨
 
 ❤️ If you want, you can [buy me a coffee](https://www.buymeacoffee.com/alexiasa) ☕️ 
-❤️ opensourceskincare.com](https://opensourceskincare.com) has even more natural skincare goodness
+
+❤️ [opensourceskincare.com](https://opensourceskincare.com) has even more natural skincare goodness
