@@ -1,6 +1,6 @@
 # Basic Salve Recipe
 
-This basic salve can be adapted for specific use cases. As written, it makes a formulation with a good consostency for a moisturizing hand salve.
+This basic salve can be adapted for specific use cases. As written, it makes a formulation with a good consistency for a moisturizing hand salve.
 
 > My go-to ratio for salve is 1:4 wax to oil/butter 
  
